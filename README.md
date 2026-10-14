@@ -33,14 +33,3 @@
 ⡿⢋⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⢀⣾⣿⣿⣿⣿⣿⣷⣦⣤⣾⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠹⣿⣿⣿⣿⣿⣿⢸⣿⣿⣿⢋⣼⢠⣿⣿
 ⢡⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⡿⢓⣰⠃⣿⣿⣿
 ```
-
-```bash
-$ whoami
-Biswajit Barik
-
-$ interests
-C++, Machine Learning, Algorithms, Linux
-
-$ status
-Building cool stuff
-```
